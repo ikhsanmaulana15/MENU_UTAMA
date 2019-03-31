@@ -1,6 +1,6 @@
 ##PROGRAM MENU_UTAMA
 ------------------------------------------------------------------------------------------
-##A. Analisis Program
+##  A. Analisis Program
 
     Kali ini saya akan membuat program dengan berbagai isi di dalamnya :
     1. Function
@@ -11,7 +11,7 @@
     sudah paham, mari kita lanjut untuk membuat program MENU PILIHAN PROGRAM.
 
 -------------------------------------------------------------------------------------------
-##B. Algoritma Pemrograman
+##  B. Algoritma Pemrograman
 
      1. Mulai, Login dahulu
      2. Jika berhasil, tampil menu pilihan (terdapat 1-5 pilihan )
@@ -31,21 +31,21 @@
 
 -------------------------------------------------------------------------------------------
 
-##C. Flowchart Program
+##  C. Flowchart Program
      
      Untuk Flowchart Program seperti gambar berikut :
      FLOWCHART
      
 ![ProgramUtama](https://user-images.githubusercontent.com/45529723/55281212-b9779380-5363-11e9-8870-49ed2ae7adfd.jpg)
 
-##D. Hasil Running Program
+##  D. Hasil Running Program
      
      Dari flowchart di atas, maka program yang telah dijalankan akan seperti berikut :
      OUTPUT RUNNING PROGRAM
 
 ![runn](https://user-images.githubusercontent.com/45529723/55281295-db254a80-5364-11e9-8e06-5fe9702a19f0.jpg)
 
-##E. Penjelasan
+##  E. Penjelasan
 
      Program tersebut setelah running akan muncul pilihan menu 1-5 karena disitu saya menggunakan perulangan while, kemudian
      program tersebut sebenarnya cukup banyak,karena terdiri dari banyak program function. Akan tetapi, program tersebut lebih
