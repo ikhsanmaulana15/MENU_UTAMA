@@ -1,4 +1,7 @@
-##PROGRAM MENU_UTAMA
+##  PROGRAM MENU_UTAMA
+    Ini merupakan salah satu program package.
+    Silahkan simak penjelasan program.
+
 ------------------------------------------------------------------------------------------
 ##  A. Analisis Program
 
