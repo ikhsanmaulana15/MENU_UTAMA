@@ -1,7 +1,6 @@
 ##  PROGRAM MENU_UTAMA
-    Ini merupakan salah satu program package.
-    Klik [Program.Utama][link-Program-Utama] untuk melihat codingan program.
-    Silahkan simak penjelasan program.
+
+   Ini merupakan salah satu program package. Klik [ProgramUtama][link-Program-Utama] untuk melihat codingan program. Silahkan simak penjelasan program dari analisis sampai hasilnya.
 
 ------------------------------------------------------------------------------------------
 ##  A. Analisis Program
