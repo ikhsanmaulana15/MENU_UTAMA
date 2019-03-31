@@ -1,5 +1,6 @@
 ##  PROGRAM MENU_UTAMA
     Ini merupakan salah satu program package.
+    Klik [Program.Utama][link-Program-Utama] untuk melihat codingan program.
     Silahkan simak penjelasan program.
 
 ------------------------------------------------------------------------------------------
@@ -56,4 +57,5 @@
      Untuk mengimpor program ke program utama tinggal ketik 'import' 'namafolder'.'namamodul' from 'nama program'.Untuk lebih
      jelas nya silahkan lihat program codingan saya di Code repository ini.
 
+[link-Program-Utama]:https://github.com/ikhsanmaulana15/MENU_UTAMA/blob/master/Codingan/programok.py
 
